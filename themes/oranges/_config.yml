@@ -116,8 +116,8 @@ friends:
   # site: 地址
   # meta: 描述
   -
-    nickname: Zcheng
-    site: https://zcheng.site/
+    nickname: qsls
+    site: https://www.huhexian.com/
     meta:
   -
     nickname: Hexo
@@ -165,7 +165,7 @@ footer:
 
   more:
     -
-      name: Copyright © Oranges 2020
+      name: Copyright © Oranges 2021
       path: https://github.com/zchengsite/hexo-theme-oranges
     -
       name: Theme by Oranges | Powered by Hexo
